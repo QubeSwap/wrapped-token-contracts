@@ -1,4 +1,4 @@
-# wrap-qube-contracts
+# wtoken-contracts
 Wrapped Contracts | WTICS - xQST - on the Qubetics Network
 
 #### WTICS address: 
